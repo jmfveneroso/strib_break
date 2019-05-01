@@ -1,0 +1,6 @@
+np
+matplotlib
+pip install ffmpeg 
+pip install imageio
+pip install scikit-image
+pip install scikit-video
